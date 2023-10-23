@@ -1,0 +1,17 @@
+*{
+    margin: 5px;
+    padding: 50;
+    box-sizing:border-box;
+    background-color: aqua;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.wrapper{
+    border: 2px solid black;
+    border-radius: 20px;
+}

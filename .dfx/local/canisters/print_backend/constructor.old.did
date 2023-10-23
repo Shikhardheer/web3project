@@ -1,0 +1,5 @@
+service : {
+  currbala: () -> (int) query;
+  topup: (int) -> (int);
+  withd: (int) -> (int);
+}
